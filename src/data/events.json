@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Team Meeting", "date": "2025-11-10", "time": "10:00", "duration": 60 },
+  { "id": 2, "title": "Client Call", "date": "2025-11-12", "time": "09:30", "duration": 30 },
+  { "id": 3, "title": "Lunch with Ali", "date": "2025-11-12", "time": "13:00", "duration": 60 },
+  { "id": 4, "title": "Demo Prep", "date": "2025-11-18", "time": "16:00", "duration": 45 },
+  { "id": 5, "title": "Design Review", "date": "2025-11-25", "time": "11:00", "duration": 90 }
+]
